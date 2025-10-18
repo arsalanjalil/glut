@@ -1,0 +1,3 @@
+/home/arsi/Documents/Project/OpenGL (copy)/cmake-build-debug/CMakeFiles/OpenGL__copy_.dir
+/home/arsi/Documents/Project/OpenGL (copy)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/arsi/Documents/Project/OpenGL (copy)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
